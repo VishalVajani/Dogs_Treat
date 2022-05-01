@@ -1,0 +1,12 @@
+{
+"companyName": "DefaultCompany",
+"productName": "8th Wall XR Demo",
+"dataUrl": "Dog_Demo.data.unityweb",
+"wasmCodeUrl": "Dog_Demo.wasm.code.unityweb",
+"wasmFrameworkUrl": "Dog_Demo.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
